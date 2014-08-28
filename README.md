@@ -1,4 +1,2 @@
 lagger-test
 ===========
-
-asfaad
